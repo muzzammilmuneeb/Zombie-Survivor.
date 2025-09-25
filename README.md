@@ -15,14 +15,14 @@ Survivors Game is a 2D survival game built using Godot 4. In this game, enemies 
 
 ## Installation
 
-To run this project, you will need to have [Godot 4](https://godotengine.org/download) installed on your machine. Follow these steps to set up the project:
+To run this project, you will need to have [Godot 4.5](https://godotengine.org/download) installed on your machine. Follow these steps to set up the project:
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/WanderlustKing11/2d-godot-survivors-game.git
    ```
 2. **Open the Project**:
-   - Launch Godot 4.
+   - Launch Godot 4.5.
    - Click on the "Import" button in the project manager.
    - Navigate to the cloned repository folder and select the `project.godot` file.
    - Click "Open" to load the project.
@@ -32,7 +32,7 @@ To run this project, you will need to have [Godot 4](https://godotengine.org/dow
 
 ## Gameplay
 
-- **Movement**: Use the `W`, `A`, `S`, `D` or `up arrow key`, `down arrow key`, `right arrow key`, `left arrow key` or even `8 numpad`, `2 numpad`, `4 numpad`, `6 numpad` to move the character.
+- **Movement**: Use the `W`, `A`, `S`, `D` or `up arrow key`, `down arrow key`, `right arrow key`, `left arrow key` or even `8 numpad`, `2 numpad`, `4 numpad`, `6 numpad` or even the `Joystick` to move the character.
 - **Shooting**: The character automatically shoots at enemies.
 - **Objective**: Survive as long as possible against waves of enemies.
 
