@@ -9,9 +9,6 @@ Survivors Game is a 2D survival game built using Godot 4. In this game, enemies 
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Installation
 
