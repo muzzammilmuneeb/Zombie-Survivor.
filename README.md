@@ -1,6 +1,6 @@
-# Survivors Game
+# Zombie Survivor
 
-Survivors Game is a 2D survival game built using Godot 4. In this game, enemies spawn all around, and the player must shoot them to survive as long as possible. Future updates will include different types of enemies, weapons, and loot drops to enhance the combat experience.
+Survivors Game is a 2D survival game built using Godot 4. In this game, enemies spawn all around, and the player must shoot them to survive as long as possible.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ To run this project, you will need to have [Godot 4](https://godotengine.org/dow
 
 ## Gameplay
 
-- **Movement**: Use the `W`, `A`, `S`, `D` keys to move the character.
+- **Movement**: Use the `W`, `A`, `S`, `D` or `up arrow key`, `down arrow key`, `right arrow key`, `left arrow key` or even `8 numpad`, `2 numpad`, `4 numpad`, `6 numpad` to move the character.
 - **Shooting**: The character automatically shoots at enemies.
 - **Objective**: Survive as long as possible against waves of enemies.
 
@@ -42,32 +42,13 @@ To run this project, you will need to have [Godot 4](https://godotengine.org/dow
 - Endless waves of enemies.
 - Automatic shooting mechanism.
 
-### Planned Features
-
-- Score system
-- Different types of enemies.
-- Various weapons and upgrades.
-- Loot drops for health and power-ups.
-
 ## Screenshots
 
-*Screenshots and GIFs showcasing the game will be added here in the future.*
+<img width="1589" height="947" alt="image" src="https://github.com/user-attachments/assets/7b6282e1-f4d6-42ca-83a1-5918ee035986" />
+
+<img width="1645" height="938" alt="image" src="https://github.com/user-attachments/assets/d1f79853-7cf2-40c9-8951-94d074eeb604" />
 
 ## Technologies Used
 
-- **Engine**: Godot 4
+- **Engine**: Godot 4.5
 - **Language**: GDScript
-- **Version Control**: Git and GitHub
-
-## Contributing
-
-This project is primarily a learning project and is not currently open for contributions. However, feel free to fork the repository and experiment on your own.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-- Godot Engine - for providing a fantastic, open-source game engine.
-- Special thanks to [GDQuest](https://youtu.be/GwCiGixlqiU?si=yEpHNuwfvRBsyoWs) for the YouTube tutorial as well as the orginally given assets.
