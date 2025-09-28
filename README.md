@@ -16,7 +16,7 @@ To run this project, you will need to have [Godot 4.5](https://godotengine.org/d
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/WanderlustKing11/2d-godot-survivors-game.git
+   git clone https://github.com/muzzammilmuneeb/Zombie-Survivor./edit/main/README.md
    ```
 2. **Open the Project**:
    - Launch Godot 4.5.
